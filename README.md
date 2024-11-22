@@ -99,3 +99,4 @@ If you have any questions or suggestions, feel free to reach out:
 
 Let’s make currency conversion easy and accessible for everyone! 🎉
 <img width="1440" alt="Screenshot 2024-11-22 at 4 11 16 PM" src="https://github.com/user-attachments/assets/a2b9370b-cd0e-4221-b3a6-597786b016bc">
+
